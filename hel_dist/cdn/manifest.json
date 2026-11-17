@@ -1,0 +1,33 @@
+{
+  "name": "@melt-js/libs-utils",
+  "version": "2026.11.16-1",
+  "entries": {
+    "@melt-js/libs-utils": {
+      "specifier": "@melt-js/libs-utils",
+      "esm": "hel_dist/cdn/index.esm.mjs",
+      "umd": "hel_dist/cdn/index.umd.cjs",
+      "exports": [
+        "default",
+        "lib",
+        "myMod",
+        "num",
+        "regs"
+      ]
+    }
+  },
+  "resources": [
+    {
+      "specifier": "@melt-js/libs-core",
+      "esm": "https://unpkg.com/@melt-js/libs-core@2026.11.16-1/dist/browser.mjs",
+      "umd": "https://unpkg.com/@melt-js/libs-core@2026.11.16-1/dist/cdn/index.umd.cjs",
+      "vendor": "https://unpkg.com/@melt-js/libs-core@2026.11.16-1/dist/cdn/vendor.umd.cjs"
+    }
+  ],
+  "imports": {
+    "@melt-js/libs-core": "https://unpkg.com/@melt-js/libs-core@2026.11.16-1/dist/browser.mjs",
+    "@melt-js/libs-core/browser": "https://unpkg.com/@melt-js/libs-core@2026.11.16-1/dist/browser.mjs",
+    "@melt-js/libs-core/demo": "https://unpkg.com/@melt-js/libs-core@2026.11.16-1/dist/demo/browser.mjs",
+    "@melt-js/libs-core/demo/browser": "https://unpkg.com/@melt-js/libs-core@2026.11.16-1/dist/demo/browser.mjs"
+  },
+  "styles": []
+}
