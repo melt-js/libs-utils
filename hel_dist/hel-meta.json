@@ -6,7 +6,7 @@
     "online_version": "2026.11.16-1",
     "build_version": "2026.11.16-1",
     "platform": "unpkg",
-    "create_at": "2026-11-17T06:57:38.855Z"
+    "create_at": "2026-11-19T11:28:53.123Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
@@ -58,7 +58,7 @@
       "srvModSrcIndex": ""
     },
     "html_content": "<!doctype html>\n<html lang=\"zh-CN\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>libs-utils</title>\n    <meta name=\"description\" content=\"hel 远程工具库 libs-utils\" />\n    <script type=\"module\" crossorigin src=\"/libs-utils/hel_dist/assets/index-BnAgPtU6.js\"></script>\n    <link rel=\"modulepreload\" crossorigin href=\"/libs-utils/hel_dist/assets/preload-helper-CmBb0krJ.js\">\n  </head>\n  <body>\n    <div id=\"container\"></div>\n  </body>\n</html>\n",
-    "create_at": "2026-11-17T06:57:38.855Z",
+    "create_at": "2026-11-19T11:28:53.123Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }
