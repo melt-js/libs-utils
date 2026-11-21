@@ -1,0 +1,69 @@
+{
+  "app": {
+    "name": "libs-utils",
+    "app_group_name": "libs-utils",
+    "git_repo_url": "",
+    "online_version": "2026.11.16-1",
+    "build_version": "2026.11.16-1",
+    "platform": "unpkg",
+    "create_at": "2026-11-21T01:18:51.040Z"
+  },
+  "version": {
+    "plugin_ver": "5.4.3",
+    "extract_mode": "build",
+    "sub_app_name": "libs-utils",
+    "sub_app_version": "libs-utils@2026.11.16-1",
+    "version_tag": "2026.11.16-1",
+    "src_map": {
+      "webDirPath": "/libs-utils/hel_dist",
+      "htmlIndexSrc": "/libs-utils/hel_dist/index.html",
+      "extractMode": "all",
+      "iframeSrc": "",
+      "chunkCssSrcList": [],
+      "chunkJsSrcList": [
+        "/libs-utils/hel_dist/assets/index-BnAgPtU6.js",
+        "/libs-utils/hel_dist/assets/preload-helper-CmBb0krJ.js",
+        "/libs-utils/hel_dist/assets/vendor-DXFf4oeW.js"
+      ],
+      "staticCssSrcList": [],
+      "staticJsSrcList": [],
+      "relativeCssSrcList": [],
+      "relativeJsSrcList": [],
+      "headAssetList": [
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": {
+            "src": "/libs-utils/hel_dist/assets/index-BnAgPtU6.js",
+            "type": "module",
+            "crossorigin": ""
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/libs-utils/hel_dist/assets/preload-helper-CmBb0krJ.js",
+            "rel": "modulepreload",
+            "crossorigin": ""
+          }
+        }
+      ],
+      "bodyAssetList": [],
+      "otherSrcList": [
+        "/libs-utils/hel_dist/assets/vendor-DXFf4oeW.js.gz",
+        "/libs-utils/hel_dist/cdn/example-esm.html",
+        "/libs-utils/hel_dist/cdn/example-umd.html",
+        "/libs-utils/hel_dist/cdn/index.esm.mjs",
+        "/libs-utils/hel_dist/cdn/index.umd.cjs",
+        "/libs-utils/hel_dist/cdn/manifest.json",
+        "/libs-utils/hel_dist/index.html"
+      ],
+      "srvModSrcList": [],
+      "srvModSrcIndex": ""
+    },
+    "html_content": "<!doctype html>\n<html lang=\"zh-CN\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>libs-utils</title>\n    <meta name=\"description\" content=\"hel 远程工具库 libs-utils\" />\n    <script type=\"module\" crossorigin src=\"/libs-utils/hel_dist/assets/index-BnAgPtU6.js\"></script>\n    <link rel=\"modulepreload\" crossorigin href=\"/libs-utils/hel_dist/assets/preload-helper-CmBb0krJ.js\">\n  </head>\n  <body>\n    <div id=\"container\"></div>\n  </body>\n</html>\n",
+    "create_at": "2026-11-21T01:18:51.040Z",
+    "desc": "this version meta is created by hel-dev-utils@5.4.3"
+  }
+}
